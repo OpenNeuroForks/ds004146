@@ -15,14 +15,21 @@
   "EchoTrainLength": 90,
   "EffectiveEchoSpacing": 0.000599984,
   "FlipAngle": 90,
-  "ImageOrientationPatientDICOM": [0.999261, -0.0294513, 0.0246856, 0.0245959, 0.983722, 0.178004],
+  "ImageOrientationPatientDICOM": [
+    0.999261,
+    -0.0294513,
+    0.0246856,
+    0.0245959,
+    0.983722,
+    0.178004
+  ],
   "ImageType": [
     "ORIGINAL",
     "PRIMARY",
     "M",
     "ND",
     "NORM"
-],
+  ],
   "ImagingFrequency": 123.229,
   "InPlanePhaseEncodingDirectionDICOM": "COL",
   "InstitutionAddress": "Cooper_60_St._Lucia_QLD_AU_4072",
@@ -54,11 +61,22 @@
   "SequenceVariant": "SK_SP",
   "SeriesDescription": "AP_PR_EP2D_SE_FMAP",
   "SeriesNumber": 18,
-  "ShimSetting": [3052, -4189, -795, 316, -102, -87, -16, 55],
+  "ShimSetting": [
+    3052,
+    -4189,
+    -795,
+    316,
+    -102,
+    -87,
+    -16,
+    55
+  ],
   "SliceThickness": 2.4,
   "SoftwareVersions": "syngo_MR_E11",
   "SpacingBetweenSlices": 2.4,
   "StationName": "mrc_Trio",
   "TotalReadoutTime": 0.0533986,
   "TxRefAmp": 212.904,
-  "VendorReportedEchoSpacing": 0.0006}
+  "VendorReportedEchoSpacing": 0.0006,
+  "B0FieldIdentifier": "pepolar_fmap0"
+}
